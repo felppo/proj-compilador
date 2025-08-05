@@ -1,4 +1,4 @@
-Trabalho Final - Compiladores
+Trabalho Final - Compiladores.
 Projeto de compilador para linguagem C simplificada
 
 Somente análise léxica e sintática + tabela de símbolos
